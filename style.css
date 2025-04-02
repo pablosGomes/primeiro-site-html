@@ -1,0 +1,30 @@
+body{
+    background-color:rgb(233, 233, 233);
+    margin-left: 2%;
+    margin-right: 2%;          
+}
+
+h1, h2{
+    background-color: darkgray;
+    text-align: center;
+    color: whitesmoke;
+}
+
+p, ul{
+    text-align: justify;
+    line-height: 1.5;
+    font-size: 1.5em;
+    text-indent: 20px;
+}
+
+
+img{
+    display: block;
+    margin: auto;
+}
+
+footer{
+    background-color: rgb(20, 20, 20);
+    text-align: center;
+    color: whitesmoke;
+}
