@@ -3,6 +3,5 @@ Repositório destinado ao aprendizado básico de html e css
 
 https://pablosgomes.github.io/primeiro-site-html/
 
-https://github.com/pablosGomes/primeiro-site-html/blob/main/cssinternoexterno/indexinline.html
 
 
